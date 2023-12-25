@@ -1,0 +1,142 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+
+        {
+            "type": "java",
+            "name": "Exercise18",
+            "request": "launch",
+            "mainClass": "Exercise18.Exercise18",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Exercises1",
+            "request": "launch",
+            "mainClass": "Exercise1.Exercises1",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise10",
+            "request": "launch",
+            "mainClass": "Exercise10.Exercise10",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise11",
+            "request": "launch",
+            "mainClass": "Exercise11.Exercise11",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise12",
+            "request": "launch",
+            "mainClass": "Exercise12.Exercise12",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise13",
+            "request": "launch",
+            "mainClass": "Exercise13.Exercise13",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise14",
+            "request": "launch",
+            "mainClass": "Exercise14.Exercise14",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15",
+            "request": "launch",
+            "mainClass": "Exercise15.Exercise15",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise16",
+            "request": "launch",
+            "mainClass": "Exercise16.Exercise16",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise17",
+            "request": "launch",
+            "mainClass": "Exercise17.Exercise17",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2",
+            "request": "launch",
+            "mainClass": "Exercise2.Exercise2",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3",
+            "request": "launch",
+            "mainClass": "Exercise3.Exercise3",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise4",
+            "request": "launch",
+            "mainClass": "Exercise4.Exercise4",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise5",
+            "request": "launch",
+            "mainClass": "Exercise5.Exercise5",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise6",
+            "request": "launch",
+            "mainClass": "Exercise6.Exercise6",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise7",
+            "request": "launch",
+            "mainClass": "Exercise7.Exercise7",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise8",
+            "request": "launch",
+            "mainClass": "Exercise8.Exercise8",
+            "projectName": "Java Basic Programming_5da54c03"
+        },
+        {
+            "type": "java",
+            "name": "Exercise9",
+            "request": "launch",
+            "mainClass": "Exercise9.Exercise9",
+            "projectName": "Java Basic Programming_5da54c03"
+        }
+    ]
+}
